@@ -2,7 +2,6 @@
 
 namespace App\Validators;
 
-use App\IO;
 use App\Models\Employee;
 use Symfony\Component\Validator\Constraints\GreaterThan;
 use Symfony\Component\Validator\Constraints\GreaterThanOrEqual;
